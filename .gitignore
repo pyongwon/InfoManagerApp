@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+/.vs/InfoManagerApp/v15
+/.vs/VSWorkspaceState.json
